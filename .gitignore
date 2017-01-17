@@ -8,3 +8,4 @@ app/**/*.js
 _test-output
 _temp
 .DS_Store
+.sass-cache
